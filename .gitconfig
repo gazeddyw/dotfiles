@@ -1,0 +1,11 @@
+[user]
+	name = Gareth Williams
+	email = gareth.williams987@gmail.com
+[credential]
+	helper = cache
+[core]
+	editor = gvim
+[color]
+	ui = true
+[color "status"]
+	changed = red
